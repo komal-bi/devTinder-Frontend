@@ -1,4 +1,4 @@
-let BaseUrl='http://localhost:7777'
+let BaseUrl='/api'
 
 export const LOGIN_URL= `${BaseUrl}/login`;
 export const SIGNUP_URL= `${BaseUrl}/signup`;
